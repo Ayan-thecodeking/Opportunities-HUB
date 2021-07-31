@@ -3,7 +3,7 @@
 
 ## Contribution
 This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
-If you're interested in adding any opportunity to the above list, feel free to make a Pull Request with the following in the format above:
+If you're interested in adding any opportunity to the above list, feel free to make a Pull Request with the following in the format above::
 - Name of the program and type
 - Deadline(approx)
 - Relevant Link
