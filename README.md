@@ -11,9 +11,11 @@ If you're interested in adding any opportunity to the above list, feel free to m
 
 PS: Opportunities are classified based on the deadline months from previous years. 
 
-If you have any other ideas, feel free to make an issue!
+If you have any other ideas, feel free to make an issue!!
 
 ## Beginner ?? Want to start contributions ?
+
+
 
 look over my repo <a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins">👋
 link <strong>HERE </strong> </a> 
